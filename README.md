@@ -1,8 +1,8 @@
 # Alexander Afanasev
 
-ML engineer with a competition background. I work with tabular data and time series (gradient boosting, TabM), computer vision on satellite imagery (segmentation, detection) and LLM/NLP, and I package models into services with FastAPI and Docker. Student at School 21 (Data Science track).
+AI/ML/DS. school 21
 
-## Competitions
+## Achievements
 
 - **Cosmohackathon 2026, Moscow final** — 2nd place. Flood damage assessment and satellite imaging planning: water segmentation on Sentinel-1 images with gradient boosting (IoU 15% above baseline); FastAPI + React service that estimates damage and optimises image purchases within a budget.
 - **Cosmohackathon 2026, Rostov-on-Don** — 3rd place. Crop health monitoring: NDVI time-series reconstruction from multi-sensor satellite data with a gradient-boosting ensemble (RMSE 25% below baseline); FastAPI service on top of Google Earth Engine.
