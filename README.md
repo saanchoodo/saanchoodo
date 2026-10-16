@@ -1,6 +1,7 @@
 # Alexander Afanasev
 
-AI/ML/DS. school 21
+ML/DS
+School 21
 
 ## Achievements
 
