@@ -16,7 +16,7 @@ School 21
 
 ## Stack
 
-Python, PyTorch, scikit-learn, CatBoost / LightGBM / XGBoost, pandas, Polars, SQL (PostgreSQL), FastAPI, Docker.
+Python, PyTorch, scikit-learn, CatBoost / LightGBM / XGBoost, pandas, Polars, SQL (PostgreSQL), FastAPI, Docker.  
 Claude code / Codex
 
 ## Contact
